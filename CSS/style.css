@@ -1,0 +1,82 @@
+ body {
+     background-color: rgb(46, 1, 1);
+     background: radial-gradient(circle at top, #5a0000, #1a0000);
+
+ }
+   
+ h1 {
+    color: #f2f2f2;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: italic;
+    font-size: larger;
+    font-weight: bold;
+    text-align: center;
+    font-size: 32px;
+    letter-spacing: 1px;
+
+ }
+
+    header img {
+    display: block;
+    margin: 0 auto;
+
+  }
+
+    #Megumoon-icon {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  object-fit: cover;
+   border: 3px solid #ffffff;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+}
+
+header {
+    background-color: rgb(77, 3, 3);
+}
+
+  a {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+  
+    display: flex;
+  align-items: center;
+  gap: 52px;
+  padding: 16px 24px;
+
+  width: 80%;
+  max-width: 300px;
+  margin: 16px auto;
+  padding: 12px 20px;
+
+  border-radius: 14px;
+  text-decoration: none;
+  border-bottom: #c2c0c5;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.3);
+}
+
+ a:hover {
+  transform: scale(1.03);
+  box-shadow: 0 8px 20px rgba(0,0,0,0.4);
+}
+
+  a h3 {
+    font-size: 32px;
+    text-align: center;
+    align-content: center;
+    color: antiquewhite;
+     font-weight: 600;
+  }
+
+   #tik-tok {
+    background-color: black;
+   }
+
+   #youtube {
+    background-color: rgb(226, 0, 0);
+   }
+
+   #twitch {
+    background-color: #6441A5;
+   }
+
+ 
